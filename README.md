@@ -1,1 +1,1 @@
-# canvas-greetn
+# canvas-greetn-boilerplate
